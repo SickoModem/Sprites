@@ -1,0 +1,4 @@
+packages:
+    - 'tools/*'
+    - 'lib/*'
+    - "data/lib"

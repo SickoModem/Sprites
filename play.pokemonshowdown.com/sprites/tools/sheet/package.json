@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "dependencies": {
+        "make-promises-safe": "^5.1.0"
+    },
+    "main": "./dist/index.js"
+}

@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "incremental": true,
+        "target": "esnext",
+        "module": "esnext",
+        "jsx": "react",
+        "strict": true,
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "isolatedModules": true,
+        "composite": true
+    }
+}
